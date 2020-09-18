@@ -1,0 +1,67 @@
+@media (max-width: 940px){
+    .header-right{
+        width: 100%;
+        text-align: center;
+        }
+        .header-left{
+            width: 100%;
+            text-align: center;
+
+            }
+            .header-area{
+                background-color: #2980b9;
+                padding: 10px 0;
+            }
+            .header-right ul li a {
+                line-height: 50px;
+                padding: 0 7px;
+                border-right: none;
+            }
+            .banner{ 
+                padding: 150px 0;
+            }
+}
+@media (max-width: 576px){
+    .service-item{
+        width: 100%;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        padding: 25px;
+    }
+    .blog-left-notification{
+        width: 100%;
+        
+    }
+    .blog-left-content{
+        width: 100%;
+       
+    }
+    .footer-left{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .footer-right{
+        width: 100%;
+    }
+    .social-menu{
+        padding: 10px;
+       text-align: center;
+    }
+    .social-menu li{
+        padding: 0 10px;
+    }
+    .banner{ 
+        padding: 120px 0;
+    }
+    .banner-caption h2{
+        padding: 3px 8px;
+        font-size: 20px;
+    }
+    .banner-caption h1 { 
+        max-width: 260px;
+        font-size: 25px;
+        padding: 0px 0px;
+    }
+       
+}
